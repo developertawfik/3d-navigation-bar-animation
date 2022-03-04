@@ -123,6 +123,7 @@ body {
   -o-transform: perspective(1000px) rotateY(15deg) translateZ(320px) scale(0.5);
   -webkit-animation: main-animation 0.5s ease;
   left: -10px;
+  box-shadow: -10px -10px 0px 0px #566b4a, -10px -10px 0px 0px #566b4a, -5px -5px 10px -5px rgba(0,0,0,0);
 }
 
 @keyframes main-animation {
